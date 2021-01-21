@@ -1,0 +1,97 @@
+/*p {
+	text-align: center;
+	color: black;
+	font-size: 40px; 
+	font-weight: 700;
+	background: linear-gradient( 109.6deg,  rgba(255,219,47,1) 11.2%, rgba(244,253,0,1) 100.2% );
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}*/
+
+.middle {
+	text-align: center;
+	color: black;
+	font-size: 40px; 
+	font-weight: 700;
+	background: linear-gradient( 109.6deg,  rgba(255,219,47,1) 11.2%, rgba(244,253,0,1) 100.2% );
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.middle1 {
+	text-align: center;
+	color: black;
+	font-size: 40px; 
+	font-weight: 700;
+	background-color: #FFE53B;
+    background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%); 
+}
+
+.display-4 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	color: #af0069;
+	text-align: center;
+	background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+
+.banner {
+	background-image: url(../img/lady2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slider {
+	background-color: rgba(1,1,1,.7);
+	color: orange;
+	padding: 70px;
+}
+.slider h1 {
+	font-size: 30px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.slider p {
+	font-size: 20px;
+	margin-bottom: 30px;
+
+}
+
+.slider button {
+	margin-bottom: 100px;
+}
+
+.custom_ind {
+    bottom: 40px;
+}
+
+.custom_ind li {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: 0.5;
+    transition: opacity 0.6s ease;
+}
+/*h1{
+	font-size: calc(1.575rem + 3.9vw);
+    font-weight: 300;
+    line-height: 1.2;
+    margin-top: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	color: #af0069;
+	background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}*/
